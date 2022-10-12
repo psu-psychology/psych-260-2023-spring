@@ -1,0 +1,352 @@
+# Schedule {-}
+
+## January 9-13 {- #week-01}
+
+### Tuesday, January 10 {-}
+
+- Topics
+    - Introduction to the course
+    - A bit about systems
+- Assignments
+    - Read: W&B 1:3-21
+- Materials
+    - [Slides](lectures/260-2022-01-11-intro.html) | [PDF](lectures/260-2022-01-11-intro.pdf)
+
+### Thursday, January 12 {-}
+
+- Topics
+    - History of neuroscience
+    - Levels of analysis
+    - Neuroscience methods I
+- Assignments
+    - Scan: <https://faculty.washington.edu/chudler/hist.html>
+    - Read: W&B 1:3-21; 2:29, 48-51; 3:75-79.
+    - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
+    - Optional:
+        - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
+- Materials
+    - [Slides](lectures/260-2022-01-13-history-levels-methods.html) | [PDF](lectures/260-2022-01-13-history-levels-methods.pdf)
+
+---
+
+## January 16-20 {- #week-02}
+
+### Tuesday, January 17 {-}
+
+- Topics
+    - Neuroscience methods II
+- Assignments
+    - Read: W&B 1:3-21; 2:29, 48-51; 3:75-79.
+    - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
+    - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
+- Materials
+    - [Slides](lectures/260-2022-01-18-methods.html) | [PDF](lectures/260-2022-01-18-methods.pdf)
+
+### Thursday, January 19 {-}
+
+- Topics
+    - Neuroanatomy I
+- Assignments
+    - Read W&B 2:32-47
+- Materials
+    - [Slides](lectures/260-2022-01-20-anatomy-I.html) | [PDF](260-2022-01-20-anatomy-I.pdf)
+
+---
+
+## January 23-27 {- #week-03}
+
+### Tuesday, January 24 {-}
+
+- Topics
+    - Neuroanatomy II
+- Assignments
+    - Read W&B 2:32-47 
+- Materials
+    - [Slides](lectures/260-2022-01-25-anatomy-II.html) | [PDF](lectures/260-2022-01-25-anatomy-II.pdf)
+
+### Thursday, January 26 {-}
+
+- Topics
+    - Neuroanatomy III
+    - **Quiz 1**, available on Canvas *after* class.
+- Assignments
+- Materials
+    - [Slides](lectures/260-2022-01-27-anatomy-III.html) | [PDF](lectures/260-2022-01-27-anatomy-III.pdf)
+
+---
+
+## January 30 - February 3 {- #week-04}
+
+### Tuesday, January 31 {-}
+
+- Topics
+    - Cells of the nervous system
+    - How nerve cells compute (Neurophysiology I)
+- Assignments
+    - Read W&B: 2:23-32
+    - Read W&B: 3:55-59
+- Materials
+    - [Slides](lectures/260-2022-02-01-cells.html) | [PDF](lectures/260-2022-02-01-cells.pdf)
+
+### Thursday, February 2 {-}
+
+- Topics
+    - Neurophysiology II
+- Assignments
+    - Read W&B: 3:55-70
+    - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
+- Materials
+    - [Slides](lectures/260-2022-02-03-cells-II.html) | [PDF](lectures/260-2022-02-03-cells-II.pdf)
+
+---
+
+## February 6-10 {- #week-05}
+
+### Tuesday, February 7 {-}
+
+- Topics
+    - Neurophysiology III
+    - Exam 1 Review
+
+- Assignments
+    - Read W&B 3:70-75
+- Materials
+    - [Slides](lectures/260-2022-02-08-cells-III.html) | [PDF](lectures/260-2022-02-08-cells-III.pdf)
+    - [Exam 1 Study Guide](lectures/260-2022-02-08-exam-1-review.html) | [PDF](lectures/260-2022-02-08-exam-1-review.pdf)
+    
+### Thursday, February 9 {-}
+
+- Topics
+    - **Exam 1**
+
+---
+
+## February 13-17 {- #week-06}
+
+### Tuesday, February 14 {-}
+
+- Topics
+    - Neurochemistry I
+- Assignments
+    -  Read W&B 4:83-92, 96-100
+- Materials
+    - [Slides](lectures/260-2022-02-15-neurochem-I.html) | [PDF](lectures/260-2022-02-15-neurochem-I.pdf)
+    
+### Thursday, February 16 {-}
+
+- Topics
+    - Neurochemistry II
+- Assignments
+    -  Read W&B 4:83-92, 96-100
+    - Watch <http://pittmedneuro.com/movies/transmission1.mp4>
+- Materials
+    - [Slides](lectures/260-2022-02-17-neurochem-II.html) | [PDF](lectures/260-2022-02-17-neurochem-II.pdf)
+
+---
+
+## February 20-24 {- #week-07}
+
+### Tuesday, February 21 {-}
+
+- Topics
+    - Hormones and the brain
+    - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
+    - **Quiz 2**, available on Canvas *after* class.
+- Assignments
+    - Read W&B 8:217-234
+- Materials
+    - [Slides](lectures/260-2022-02-22-hormones.html) | [PDF](lectures/260-2022-02-22-hormones.pdf)
+
+### Thursday, February 23 {-}
+
+- Topics
+    - Evolution of the human brain.
+    - Review for Exam 2
+- Assignments
+    - Read
+        - Foster, C. (2017, January 19). If you were an elephant …. The Guardian. http://www.theguardian.com/environment/2017/jan/19/if-you-were-an-elephant-
+        - Neubauer, S., & Hublin, J.-J. (2012). The Evolution of Human Brain Development. Evolutionary Biology, 39(4), 568–586. https://doi.org/10.1007/s11692-011-9156-1
+- Materials
+    - [Slides](lectures/260-2022-02-24-evolution.html). [PDF](lectures/260-2022-02-24-evolution.pdf)
+    - [Exam 2 Study Guide](lectures/260-2022-02-24-exam-2-review.html). [PDF](lectures/260-2022-02-24-exam-2-review.pdf)
+
+---
+    
+## February 27 - March 3 {- #week-08}
+
+### Tuesday, February 28 {-}
+
+- Topics
+    - **Exam  2**, on Canvas.
+
+### Thursday, March 2 {-}
+
+- Topics
+    - Development of the human brain
+- Materials
+    - [Slides](lectures/260-2022-03-03-development.html). [PDF](lectures/260-2022-03-03-development.pdf)
+
+---
+
+## March 6-10 {- #spring-break}
+
+**NO CLASS**
+    
+---
+
+## March 13-17 {- #week-09}
+
+#### Tuesday, March 14 {-}
+
+- Topic
+    - Psychopathology I: Depression & Bipolar disorder
+- Assignments
+    - Read W&B 12:361-371
+- Materials
+    - [Slides](lectures/260-2022-03-15-depression-bipolar.html) | [PDF](lectures/260-2022-03-15-depression-bipolar.pdf)
+
+### Thursday, March 16 {-}
+
+- Topics
+    - Psychopathology II: Schizophrenia
+- Assignments
+    - Read W&B 12:347-360.    
+- Materials
+    - [Slides](lectures/260-2022-03-17-schizophrenia.html) | [PDF](lectures/260-2022-03-17-schizophrenia.pdf)
+
+---
+
+## March 20-24 {- #week-10}
+
+### Tuesday, March 21 {-}
+
+- Topics
+    - Emotion
+    - Happiness & reward
+    - Fear & stress
+    - **Quiz 3**, available on Canvas *after* class.
+- Assignments
+    - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) 
+- Materials
+    - [Slides](lectures/260-2022-03-22-emotion.html) | [PDF](lectures/260-2022-03-22-emotion.pdf)
+
+### Thursday, March 23 {-}
+
+- Topics
+    - Emotion II
+- Assignments
+- Materials
+    - [Slides](lectures/260-2022-03-24-emotion-II.html) | [PDF](lectures/260-2022-03-24-emotion-II.pdf)
+
+---
+
+## March 27-31 {- #week-11}
+
+### Tuesday, March 28 {-}
+
+- Topics
+    - Sensory systems
+    - Somatosensation I
+- Assignments
+    - Read W&B 5:119-150
+    - Read W&B 11:337-347
+- Materials
+    - [Slides](lectures/260-2022-03-29-sensation.html) | [PDF](lectures/260-2022-03-29-sensation.pdf)
+    - [Exam  Study Guide](lectures/260-2022-03-29-exam-3-review.html). [PDF](lectures/260-2022-03-29-exam-3-review.pdf)
+
+### Thursday, March 30 {-}
+
+- Topics
+    - **Exam 3**
+    
+---
+
+## April 3-7 {- #week-12}
+
+### Tuesday, April 4 {-}
+
+- Topics
+    - Somatosensation II
+    - Action I
+- Materials
+    - [Slides](lectures/260-2022-04-05-pain-action.html) | [PDF](lectures/260-2022-04-05-pain-action.pdf)
+
+### Thursday, April 6 {-}
+
+- Topics
+    - Action II
+- Materials
+    - [Slides](lectures/260-2022-04-07-action-II.html) | [PDF](lectures/260-2022-04-07-action-II.pdf)
+    
+---
+
+## April 10-14 {- #week-13}
+
+### Tuesday, April 11 {-}
+
+- Topics
+    - Vision I
+- Assignments
+    - Read W&B 7:183-201
+- Materials
+    - [Slides](lectures/260-2022-04-12-vision.html) | [PDF](lectures/260-2022-04-12-vision.pdf)
+- **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
+    
+### Thursday, April 13 {-}
+
+- Topics
+    - Vision II
+- Assignments
+    - Read W&B 7:201-215.
+- Materials
+    - [Slides](https://psu-psychology.github.io/psych-260-2022-spring/lectures/260-2022-04-12-vision.html#37) | [PDF](lectures/260-2022-04-12-vision.pdf)
+
+---
+
+## April 17-21 {- #week-14}
+
+### Tuesday, April 18 {-}
+
+- Topics
+    - Learning & memory
+- Assignments
+    - Read W&B 13:379-391.
+- Materials
+    - [Slides](lectures/260-2022-04-19-memory.html) | [PDF](lectures/260-2022-04-19-memory.pdf)
+
+### Thursday, April 20 {-}
+
+- Topics
+    - **NO CLASS MEETING**
+    - **Quiz 4**, available on Canvas at 3:05 PM.
+
+---
+
+## April 24-28 {- #week-15}
+
+### Tuesday, April 25 {-}
+
+- Topics
+    - Learning & memory II
+- Assignments
+    - Read W&B 13:392-401.
+- Materials
+    - [Slides](lectures/260-2022-04-26-memory-II.html) | [PDF](lectures/260-2022-04-26-memory-II.pdf)
+
+
+### Thursday, April 27 {-}
+
+- Topics
+    - Review for Exam 4.
+    - Frontiers & careers in neuroscience
+    - The Cerebral Symphony
+- Materials
+    - [Exam 4 Study Guide](lectures/260-2022-04-28-exam-4-study-guide.html) |[PDF](lectures/260-2022-04-28-exam-4-study-guide.pdf).
+
+---
+    
+## May 1-5 {- #finals-week}
+
+### Tuesday, May 2 {-}
+
+- **Exam 4**, on Canvas 12:00 pm (noon) to 10:00 pm

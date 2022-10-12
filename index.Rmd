@@ -1,0 +1,51 @@
+--- 
+title: "PSYCH 260"
+subtitle: "Spring 2023"
+author: "Rick O. Gilmore, Ph.D."
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [bib/book.bib, bib/packages.bib, bib/psych260.bib]
+biblio-style: "apa-like"
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is the course material for PSYCH 260.
+link-citations: yes
+github-repo: "psu-psychology/psych-260-2023-spring"
+url: 'https\://psu-psychology.github.io/psych-260-2023-spring/'
+---
+
+# About the course {-}
+
+There is perhaps no more fascinating scientific frontier than the study of the brain and behavior. The goal of this course is to introduce you to the principal methods, theories, and findings of the scientific fields that seek to open this frontier. At the end of the term, you will know more about the following topics:
+
+- how the nervous system is structured and how it functions;
+- how the nervous system evolved and develops; and
+- how the nervous system influences behavior, thought, action, and emotion.
+
+## People {-}
+
+### Instructor {-}
+
+Rick O. Gilmore, Ph.D.
+Professor of Psychology
+rog1 AT-SIGN psu PERIOD edu
+
+Schedule an appointment: <https://psu.zoom.us/my/rogilmore></br>
+Lab web site: <https://gilmore-lab.github.io>
+
+### Teaching Assistant {-}
+
+TBD
+
+### Meeting time & location {-}
+
+Tuesday and Thursday 3:05 PM - 4:20 PM ET</br>
+TBD
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
