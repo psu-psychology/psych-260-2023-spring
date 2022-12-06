@@ -1,18 +1,20 @@
 --- 
-title: "PSYCH 260"
+title: "PSYCH 260.001"
 subtitle: "Spring 2023"
 author: "Rick O. Gilmore, Ph.D."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [bib/book.bib, bib/packages.bib, bib/psych260.bib]
+bibliography: [include/bib/packages.bib]
 biblio-style: "apa-like"
-# cover-image: path to the social sharing image like images/cover.jpg
+cover-image: "include/img/scarecrow.mri.jpg"
 description: |
   This is the course material for PSYCH 260.
 link-citations: yes
 github-repo: "psu-psychology/psych-260-2023-spring"
 url: 'https\://psu-psychology.github.io/psych-260-2023-spring/'
+params:
+  notes_url: "https://psu-psychology.github.io/psych-260-2023-spring-notes/"
 ---
 
 # About the course {-}
@@ -31,7 +33,7 @@ Rick O. Gilmore, Ph.D.
 Professor of Psychology
 rog1 AT-SIGN psu PERIOD edu
 
-Schedule an appointment: <https://psu.zoom.us/my/rogilmore></br>
+Schedule an appointment: <https://doodle.com/mm/rickgilmore/book-a-time></br>
 Lab web site: <https://gilmore-lab.github.io>
 
 ### Teaching Assistant {-}
@@ -41,7 +43,7 @@ TBD
 ### Meeting time & location {-}
 
 Tuesday and Thursday 3:05 PM - 4:20 PM ET</br>
-TBD
+[Animal, Veterinary, and Biomedical Sciences Building](https://www.map.psu.edu/?id=1134#!ct/59509,33177,25403,26748,26749,26750,27255?m/302542) 102
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

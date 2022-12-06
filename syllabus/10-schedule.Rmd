@@ -10,7 +10,7 @@
 - Assignments
     - Read: W&B 1:3-21
 - Materials
-    - [Slides](lectures/260-2022-01-11-intro.html) | [PDF](lectures/260-2022-01-11-intro.pdf)
+    - Slides: [(1 of 2)](`r paste0(params$notes_url, "/course-intro.html")`) and [(2 of 2)](`r paste0(params$notes_url, "/systems.html")`)
 
 ### Thursday, January 12 {-}
 
@@ -25,7 +25,9 @@
     - Optional:
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
 - Materials
-    - [Slides](lectures/260-2022-01-13-history-levels-methods.html) | [PDF](lectures/260-2022-01-13-history-levels-methods.pdf)
+    - [History](`r paste0(params$notes_url, "history.html")`)
+    - [Levels of analysis](`r paste0(params$notes_url, "levels.html")`)
+    - [Methods](`r paste0(params$notes_url, "methods.html")`)
 
 ---
 
@@ -40,7 +42,7 @@
     - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
 - Materials
-    - [Slides](lectures/260-2022-01-18-methods.html) | [PDF](lectures/260-2022-01-18-methods.pdf)
+    - [Methods](`r paste0(params$notes_url, "methods.html")`)
 
 ### Thursday, January 19 {-}
 
@@ -49,7 +51,7 @@
 - Assignments
     - Read W&B 2:32-47
 - Materials
-    - [Slides](lectures/260-2022-01-20-anatomy-I.html) | [PDF](260-2022-01-20-anatomy-I.pdf)
+    - [Slides]
 
 ---
 
@@ -62,7 +64,7 @@
 - Assignments
     - Read W&B 2:32-47 
 - Materials
-    - [Slides](lectures/260-2022-01-25-anatomy-II.html) | [PDF](lectures/260-2022-01-25-anatomy-II.pdf)
+    - [Slides]
 
 ### Thursday, January 26 {-}
 
@@ -71,7 +73,7 @@
     - **Quiz 1**, available on Canvas *after* class.
 - Assignments
 - Materials
-    - [Slides](lectures/260-2022-01-27-anatomy-III.html) | [PDF](lectures/260-2022-01-27-anatomy-III.pdf)
+    - [Slides]
 
 ---
 
@@ -86,7 +88,7 @@
     - Read W&B: 2:23-32
     - Read W&B: 3:55-59
 - Materials
-    - [Slides](lectures/260-2022-02-01-cells.html) | [PDF](lectures/260-2022-02-01-cells.pdf)
+    - [Slides]
 
 ### Thursday, February 2 {-}
 
@@ -96,7 +98,7 @@
     - Read W&B: 3:55-70
     - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
 - Materials
-    - [Slides](lectures/260-2022-02-03-cells-II.html) | [PDF](lectures/260-2022-02-03-cells-II.pdf)
+    - [Slides]
 
 ---
 
@@ -130,7 +132,7 @@
 - Assignments
     -  Read W&B 4:83-92, 96-100
 - Materials
-    - [Slides](lectures/260-2022-02-15-neurochem-I.html) | [PDF](lectures/260-2022-02-15-neurochem-I.pdf)
+    - [Slides]
     
 ### Thursday, February 16 {-}
 
@@ -140,7 +142,7 @@
     -  Read W&B 4:83-92, 96-100
     - Watch <http://pittmedneuro.com/movies/transmission1.mp4>
 - Materials
-    - [Slides](lectures/260-2022-02-17-neurochem-II.html) | [PDF](lectures/260-2022-02-17-neurochem-II.pdf)
+    - [Slides]
 
 ---
 
@@ -155,7 +157,7 @@
 - Assignments
     - Read W&B 8:217-234
 - Materials
-    - [Slides](lectures/260-2022-02-22-hormones.html) | [PDF](lectures/260-2022-02-22-hormones.pdf)
+    - [Slides]
 
 ### Thursday, February 23 {-}
 
@@ -203,7 +205,7 @@
 - Assignments
     - Read W&B 12:361-371
 - Materials
-    - [Slides](lectures/260-2022-03-15-depression-bipolar.html) | [PDF](lectures/260-2022-03-15-depression-bipolar.pdf)
+    - [Slides]
 
 ### Thursday, March 16 {-}
 
@@ -212,7 +214,7 @@
 - Assignments
     - Read W&B 12:347-360.    
 - Materials
-    - [Slides](lectures/260-2022-03-17-schizophrenia.html) | [PDF](lectures/260-2022-03-17-schizophrenia.pdf)
+    - [Slides]
 
 ---
 
@@ -228,7 +230,7 @@
 - Assignments
     - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) 
 - Materials
-    - [Slides](lectures/260-2022-03-22-emotion.html) | [PDF](lectures/260-2022-03-22-emotion.pdf)
+    - [Slides]
 
 ### Thursday, March 23 {-}
 
@@ -236,7 +238,7 @@
     - Emotion II
 - Assignments
 - Materials
-    - [Slides](lectures/260-2022-03-24-emotion-II.html) | [PDF](lectures/260-2022-03-24-emotion-II.pdf)
+    - [Slides]
 
 ---
 
@@ -251,9 +253,9 @@
     - Read W&B 5:119-150
     - Read W&B 11:337-347
 - Materials
-    - [Slides](lectures/260-2022-03-29-sensation.html) | [PDF](lectures/260-2022-03-29-sensation.pdf)
-    - [Exam  Study Guide](lectures/260-2022-03-29-exam-3-review.html). [PDF](lectures/260-2022-03-29-exam-3-review.pdf)
-
+    - [Slides]
+    - [Exam  Study Guide]
+    
 ### Thursday, March 30 {-}
 
 - Topics
@@ -269,14 +271,14 @@
     - Somatosensation II
     - Action I
 - Materials
-    - [Slides](lectures/260-2022-04-05-pain-action.html) | [PDF](lectures/260-2022-04-05-pain-action.pdf)
+    - [Slides]
 
 ### Thursday, April 6 {-}
 
 - Topics
     - Action II
 - Materials
-    - [Slides](lectures/260-2022-04-07-action-II.html) | [PDF](lectures/260-2022-04-07-action-II.pdf)
+    - [Slides]
     
 ---
 
@@ -289,7 +291,7 @@
 - Assignments
     - Read W&B 7:183-201
 - Materials
-    - [Slides](lectures/260-2022-04-12-vision.html) | [PDF](lectures/260-2022-04-12-vision.pdf)
+    - [Slides]
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
     
 ### Thursday, April 13 {-}
@@ -299,7 +301,7 @@
 - Assignments
     - Read W&B 7:201-215.
 - Materials
-    - [Slides](https://psu-psychology.github.io/psych-260-2022-spring/lectures/260-2022-04-12-vision.html#37) | [PDF](lectures/260-2022-04-12-vision.pdf)
+    - [Slides]
 
 ---
 
@@ -312,7 +314,7 @@
 - Assignments
     - Read W&B 13:379-391.
 - Materials
-    - [Slides](lectures/260-2022-04-19-memory.html) | [PDF](lectures/260-2022-04-19-memory.pdf)
+    - [Slides]
 
 ### Thursday, April 20 {-}
 
@@ -331,7 +333,7 @@
 - Assignments
     - Read W&B 13:392-401.
 - Materials
-    - [Slides](lectures/260-2022-04-26-memory-II.html) | [PDF](lectures/260-2022-04-26-memory-II.pdf)
+    - [Slides]
 
 
 ### Thursday, April 27 {-}
@@ -341,12 +343,12 @@
     - Frontiers & careers in neuroscience
     - The Cerebral Symphony
 - Materials
-    - [Exam 4 Study Guide](lectures/260-2022-04-28-exam-4-study-guide.html) |[PDF](lectures/260-2022-04-28-exam-4-study-guide.pdf).
+    - [Exam 4 Study Guide]
 
 ---
     
 ## May 1-5 {- #finals-week}
 
-### Tuesday, May 2 {-}
+### TBD {-}
 
 - **Exam 4**, on Canvas 12:00 pm (noon) to 10:00 pm

@@ -6,7 +6,7 @@ bookdown::gitbook:
         <li><a href="./">PSYCH 260 Spring 2023</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: "https://github.com/psu-psychology/psych-260-spring-2023/master/%s"
+    edit: "https://github.com/psu-psychology/psych-260-spring-2023-notes/master/%s"
     download: ["pdf", "epub"]
     sharing:
       facebook: false
