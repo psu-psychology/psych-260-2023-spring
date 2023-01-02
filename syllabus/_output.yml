@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">PSYCH 260 Spring 2023</a></li>
+        <li><a href="./">PSYCH 260.001 Spring 2023</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: "https://github.com/psu-psychology/psych-260-spring-2023-notes/master/%s"
