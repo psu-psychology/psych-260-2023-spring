@@ -1,5 +1,5 @@
 --- 
-title: "PSYCH 260.001"
+title: "PSYCH 260/BBH 203"
 subtitle: "Spring 2023"
 author: "Rick O. Gilmore, Ph.D."
 date: "`r Sys.Date()`"
@@ -31,16 +31,17 @@ There is perhaps no more fascinating scientific frontier than the study of the b
 
 ## Instructor {-}
 
-Rick O. Gilmore, Ph.D.
-Professor of Psychology
-rog1 AT-SIGN psu PERIOD edu
+Rick O. Gilmore, Ph.D.</br>
+Professor of Psychology</br>
+rog1 AT-SIGN psu PERIOD edu</br>
 
 Schedule an appointment: <https://doodle.com/mm/rickgilmore/book-a-time></br>
 Lab web site: <https://gilmore-lab.github.io>
 
 ## Teaching Assistant {-}
 
-TBD
+Megan Bradson</br>
+mlb5897 AT-SIGN psu PERIOD edu</br>
 
 ## Meeting time & location {-}
 
