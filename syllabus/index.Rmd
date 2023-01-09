@@ -12,7 +12,7 @@ description: |
   This is the course material for PSYCH 260.
 link-citations: yes
 github-repo: "psu-psychology/psych-260-2023-spring"
-url: 'https\://psu-psychology.github.io/psych-260-2023-spring/'
+url: 'https\://psu-psychology.github.io/psych-260-2023-spring/syllabus'
 params:
   notes_url: "https://psu-psychology.github.io/psych-260-2023-spring-notes/"
 ---
