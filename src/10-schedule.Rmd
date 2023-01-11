@@ -51,7 +51,7 @@
 - Assignments
     - Read W&B 2:32-47
 - Materials
-    - [Slides]
+    - [Neuroanatomy](`r paste0(params$notes_url, "neuroanatomy.html")`)
 
 ---
 
@@ -64,7 +64,7 @@
 - Assignments
     - Read W&B 2:32-47 
 - Materials
-    - [Slides]
+    - [Neuroanatomy](`r paste0(params$notes_url, "neuroanatomy.html")`)
 
 ### Thursday, January 26 {-}
 
@@ -73,7 +73,7 @@
     - **Quiz 1**, available on Canvas *after* class.
 - Assignments
 - Materials
-    - [Slides]
+    - [Neuroanatomy](`r paste0(params$notes_url, "neuroanatomy.html")`)
 
 ---
 
@@ -113,8 +113,8 @@
 - Assignments
     - Read W&B 3:70-75
 - Materials
-    - [Slides](lectures/260-2022-02-08-cells-III.html) | [PDF](lectures/260-2022-02-08-cells-III.pdf)
-    - [Exam 1 Study Guide](lectures/260-2022-02-08-exam-1-review.html) | [PDF](lectures/260-2022-02-08-exam-1-review.pdf)
+    - [Slides]
+    - [Exam 1 Study Guide]
     
 ### Thursday, February 9 {-}
 
@@ -152,7 +152,7 @@
 
 - Topics
     - Hormones and the brain
-    - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
+    - **Blog post 1 (of 3) due**. | [Assignment details](evaluation.html#blog_assignment) |
     - **Quiz 2**, available on Canvas *after* class.
 - Assignments
     - Read W&B 8:217-234
@@ -169,8 +169,8 @@
         - Foster, C. (2017, January 19). If you were an elephant …. The Guardian. http://www.theguardian.com/environment/2017/jan/19/if-you-were-an-elephant-
         - Neubauer, S., & Hublin, J.-J. (2012). The Evolution of Human Brain Development. Evolutionary Biology, 39(4), 568–586. https://doi.org/10.1007/s11692-011-9156-1
 - Materials
-    - [Slides](lectures/260-2022-02-24-evolution.html). [PDF](lectures/260-2022-02-24-evolution.pdf)
-    - [Exam 2 Study Guide](lectures/260-2022-02-24-exam-2-review.html). [PDF](lectures/260-2022-02-24-exam-2-review.pdf)
+    - [Slides]
+    - [Exam 2 Study Guide]
 
 ---
     
@@ -186,7 +186,7 @@
 - Topics
     - Development of the human brain
 - Materials
-    - [Slides](lectures/260-2022-03-03-development.html). [PDF](lectures/260-2022-03-03-development.pdf)
+    - [Slides]
 
 ---
 
@@ -228,7 +228,7 @@
     - Fear & stress
     - **Quiz 3**, available on Canvas *after* class.
 - Assignments
-    - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) 
+    - **Blog post #2 (of 3) due**. | [Assignment details](evaluation.html#blog_assignment) 
 - Materials
     - [Slides]
 
@@ -249,12 +249,13 @@
 - Topics
     - Sensory systems
     - Somatosensation I
+    - Review for Exam 3
 - Assignments
     - Read W&B 5:119-150
     - Read W&B 11:337-347
 - Materials
     - [Slides]
-    - [Exam  Study Guide]
+    - [Exam Study Guide]
     
 ### Thursday, March 30 {-}
 
@@ -292,7 +293,7 @@
     - Read W&B 7:183-201
 - Materials
     - [Slides]
-- **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
+- **Papers or blog post #3 (of 3) due**. | [Blog assignment details](evaluation.html#blog_assignment) | [Paper assignment details](evaluation.html#paper_assignment) |
     
 ### Thursday, April 13 {-}
 
@@ -319,8 +320,12 @@
 ### Thursday, April 20 {-}
 
 - Topics
-    - **NO CLASS MEETING**
-    - **Quiz 4**, available on Canvas at 3:05 PM.
+    - Learning & memory II
+- Assignments
+    - Read W&B 13:392-401.
+- Materials
+    - [Slides]
+    - **Quiz 4**, available on Canvas.
 
 ---
 
@@ -329,12 +334,7 @@
 ### Tuesday, April 25 {-}
 
 - Topics
-    - Learning & memory II
-- Assignments
-    - Read W&B 13:392-401.
-- Materials
-    - [Slides]
-
+    - Speed of nervous system conduction lab
 
 ### Thursday, April 27 {-}
 

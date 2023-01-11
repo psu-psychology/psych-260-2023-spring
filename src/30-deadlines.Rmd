@@ -6,13 +6,13 @@ knitr::opts_chunk$set(cache = TRUE)
 
 | Date      | What's due/happening |
 |-----------|----------------------|
-| Thu Jan 27   | Quiz 1 |
-| Thu Feb 10 | Exam 1 |
-| Tue Feb 22  | Quiz 2; [Blog post 1](blog-assignment.html) due |
-| Tue Mar 1  | Exam 2 |
-| Tue Mar 22  | Quiz 3 |
-| Tue Mar 22 |  [Blog post 2](blog-assignment.html) due |
-| Thu March 31 | Exam 3               |
-| Tue Apr 12 | Short [paper](paper-assignment.html) or [Blog post 3](blog-assignment.html) due |
-| Thu Apr 21 | Quiz 4 |
-| Tue May 3  | Exam 4 |
+| Thu Jan 26   | Quiz 1 |
+| Thu Feb 9 | Exam 1 |
+| Tue Feb 21  | Quiz 2; [Blog post 1](evaluation.html#blog_assignment) due |
+| Tue Feb 28  | Exam 2 |
+| Tue Mar 21  | Quiz 3 |
+| Tue Mar 21 |  [Blog post 2](evaluation.html#blog_assignment) due |
+| Thu March 30 | Exam 3               |
+| Tue Apr 11 | Short [paper](evaluation.html#paper_assignment) or [Blog post 3](evaluation.html#blog_assignment) due |
+| Thu Apr 20 | Quiz 4 |
+| TBD  | Exam 4 |

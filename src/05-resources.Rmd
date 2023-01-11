@@ -4,6 +4,8 @@
 
 Watson, N.V., & Breedlove, S.M. (2020). *The Mind's Machine*, 4th Ed. Oxford. PSU Bookstore [link](https://psu.bncollege.com/c/Minds-Machine/p/MBS_5745213_used?currentCampus=435&currentTerm=435_1_23_W&currentCourse=435_1_23_W_136_203_1&rental=true).
 
+When a reading assignment refers to, for example, W&B 1:3-21 (see [here](file:///Users/rick/rrr/psych-260-2023-spring/docs/schedule.html#tuesday-january-10)), that means read Chapter 1, pages 3-21 from the Watson & Breedlove book.
+
 ## Online {-}
 
 - Syllabus (this site): <https://psu-psychology.github.io/psych-260-2023-spring/>
