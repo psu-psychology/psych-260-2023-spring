@@ -88,7 +88,7 @@
     - Read W&B: 2:23-32
     - Read W&B: 3:55-59
 - Materials
-    - [Slides]
+    - [Cells](`r paste0(params$notes_url, "cells.html")`)
 
 ### Thursday, February 2 {-}
 

@@ -1,5 +1,12 @@
 # Evaluation {- #evaluation}
 
+<!-- How to make Canvas do what I like it to do: -->
+
+<!-- (From Megan Bradson's efforts. Thank you, Megan!) -->
+
+<!-- Point-based grading scheme: https://tuftsedtech.screenstepslive.com/s/18992/m/73355/l/1027932-how-do-i-display-total-points-in-the-total-grade-column -->
+<!-- Dropping lowest grades: https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-rules-for-an-assignment-group/ta-p/848 -->
+
 ## Elements {- #eval-components}
 
 | Component | Description                                  | Points |
