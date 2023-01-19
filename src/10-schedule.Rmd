@@ -51,6 +51,7 @@
 - Assignments
     - Read W&B 2:32-47
 - Materials
+    - [Methods](`r paste0(params$notes_url, "methods.html")`)
     - [Neuroanatomy](`r paste0(params$notes_url, "neuroanatomy.html")`)
 
 ---
