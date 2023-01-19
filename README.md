@@ -18,4 +18,4 @@ To render the site:
 ## Contents
 
 - `src/`: Source `.Rmd` and supporting files.
-- `docs/`: Target/output directory of rendering process. You may view the rendered HTML files here.
+- `docs/`: Target/output directory of rendering process. You may view the rendered HTML files here. When the files have been pushed to GitHub, you may view the full site here: <https://psu-psychology.github.io/psych-260-2023-spring/>
