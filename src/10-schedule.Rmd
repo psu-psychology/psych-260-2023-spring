@@ -99,7 +99,7 @@
     - Read W&B: 3:55-70
     - Watch: Video about membrane potentials <https://www.youtube.com/embed/PtKAeihnbv0>
 - Materials
-    - [Slides]
+    - [Slides](`r paste0(params$notes_url, "cells.html")`)
 
 ---
 
@@ -114,8 +114,8 @@
 - Assignments
     - Read W&B 3:70-75
 - Materials
-    - [Slides]
-    - [Exam 1 Study Guide]
+    - [Cells](`r paste0(params$notes_url, "cells.html")`)
+    - [Exam 1 Study Guide](https://psu-psychology.github.io/psych-260-2023-spring-notes/exam-study-guides.html#exam-1)
     
 ### Thursday, February 9 {-}
 
@@ -133,7 +133,7 @@
 - Assignments
     -  Read W&B 4:83-92, 96-100
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/neural-communication.html)
     
 ### Thursday, February 16 {-}
 
@@ -143,7 +143,7 @@
     -  Read W&B 4:83-92, 96-100
     - Watch <http://pittmedneuro.com/movies/transmission1.mp4>
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/neural-communication.html)
 
 ---
 
