@@ -89,7 +89,7 @@
     - Read W&B: 2:23-32
     - Read W&B: 3:55-59
 - Materials
-    - [Cells](`r paste0(params$notes_url, "cells.html")`)
+    - [Slides](`r paste0(params$notes_url, "cells.html")`)
 
 ### Thursday, February 2 {-}
 
@@ -114,7 +114,7 @@
 - Assignments
     - Read W&B 3:70-75
 - Materials
-    - [Cells](`r paste0(params$notes_url, "cells.html")`)
+    - [Slides](`r paste0(params$notes_url, "cells.html")`)
     - [Exam 1 Study Guide](https://psu-psychology.github.io/psych-260-2023-spring-notes/exam-study-guides.html#exam-1)
     
 ### Thursday, February 9 {-}
