@@ -171,8 +171,8 @@
         - Foster, C. (2017, January 19). If you were an elephant …. The Guardian. http://www.theguardian.com/environment/2017/jan/19/if-you-were-an-elephant-
         - Neubauer, S., & Hublin, J.-J. (2012). The Evolution of Human Brain Development. Evolutionary Biology, 39(4), 568–586. https://doi.org/10.1007/s11692-011-9156-1
 - Materials
-    - [Slides]
-    - [Exam 2 Study Guide]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/evolution-and-development.html)
+    - [Exam 2 Study Guide](https://psu-psychology.github.io/psych-260-2023-spring-notes/exam-study-guides.html#exam-2)
 
 ---
     
