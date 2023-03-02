@@ -189,7 +189,7 @@
 - Topics
     - Development of the human brain
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/evolution-and-development.html#development)
 
 ---
 
