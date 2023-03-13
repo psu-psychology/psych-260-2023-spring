@@ -208,7 +208,7 @@
 - Assignments
     - Read W&B 12:361-371
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/psychopathology.html)
 
 ### Thursday, March 16 {-}
 
@@ -217,7 +217,7 @@
 - Assignments
     - Read W&B 12:347-360.    
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/psychopathology.html)
 
 ---
 
