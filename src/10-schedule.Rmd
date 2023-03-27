@@ -240,7 +240,7 @@
     - Fear & stress
 - Assignments
 - Materials
-    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/emotion.html
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/emotion.html)
 
 ---
 
@@ -256,8 +256,8 @@
     - Read W&B 5:119-150
     - Read W&B 11:337-347
 - Materials
-    - [Slides]
-    - [Exam Study Guide]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/sensory-motor.html)
+    - [Exam Study Guide](https://psu-psychology.github.io/psych-260-2023-spring-notes/exam-study-guides.html#exam-3)
     
 ### Thursday, March 30 {-}
 
