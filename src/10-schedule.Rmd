@@ -275,14 +275,14 @@
     - Somatosensation II
     - Action I
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/sensory-motor.html#action)
 
 ### Thursday, April 6 {-}
 
 - Topics
     - Action II
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/sensory-motor.html#action)
     
 ---
 
@@ -295,7 +295,7 @@
 - Assignments
     - Read W&B 7:183-201
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/sensory-motor.html#vision)
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](evaluation.html#blog_assignment) | [Paper assignment details](evaluation.html#paper_assignment) |
     
 ### Thursday, April 13 {-}
@@ -305,7 +305,7 @@
 - Assignments
     - Read W&B 7:201-215.
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/sensory-motor.html#vision)
 
 ---
 
