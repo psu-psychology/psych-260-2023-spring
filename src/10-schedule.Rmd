@@ -318,7 +318,7 @@
 - Assignments
     - Read W&B 13:379-391.
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/learning-memory.html)
 
 ### Thursday, April 20 {-}
 
@@ -352,6 +352,6 @@
     
 ## May 1-5 {- #finals-week}
 
-### TBD {-}
+### Tuesday, May 2 {-}
 
-- **Exam 4**
+- **Exam 4, 10:10a-12:00p, Health & Human Development 254**
