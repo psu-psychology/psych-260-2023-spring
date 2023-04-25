@@ -327,7 +327,7 @@
 - Assignments
     - Read W&B 13:392-401.
 - Materials
-    - [Slides]
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/learning-memory.html)
     - **Quiz 4**, available on Canvas.
 
 ---
@@ -338,6 +338,7 @@
 
 - Topics
     - Speed of nervous system conduction lab
+    - [Slides](https://psu-psychology.github.io/psych-260-2023-spring-notes/speed-lab.html)
 
 ### Thursday, April 27 {-}
 

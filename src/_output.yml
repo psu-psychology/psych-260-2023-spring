@@ -20,6 +20,8 @@ bookdown::gitbook:
       all: ['github']
 
 bookdown::pdf_book:
+  config:
+    toc: false
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
