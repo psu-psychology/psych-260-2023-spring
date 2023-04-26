@@ -347,7 +347,7 @@
     - Frontiers & careers in neuroscience
     - The Cerebral Symphony
 - Materials
-    - [Exam 4 Study Guide]
+    - [Exam 4 Study Guide](https://psu-psychology.github.io/psych-260-2023-spring-notes/the-cerebral-symphony.html)
 
 ---
     
